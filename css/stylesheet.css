@@ -19,10 +19,6 @@ a:visited {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-/*
-  fixed = Parallax
-  scroll = Normal
-*/
 }
 
 .pimage1 {
