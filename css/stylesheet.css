@@ -13,6 +13,7 @@ a:visited {
 }
 a {
    color: black; 
+   text-decoration-line: none;
 }
 
 .pimage1, .pimage2, .pimage3, .pimage4, .pimage5{
